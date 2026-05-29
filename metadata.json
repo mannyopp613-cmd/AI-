@@ -1,0 +1,6 @@
+{
+  "name": "IM Agent - Science Mentor (Chem & Phys)",
+  "description": "סוכן מדע חכם המשלב כימיה ופיזיקה, עם חיפוש בזמן אמת, המחשה ויזואלית וניהול דוחות מעבדה וירטואליים.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
