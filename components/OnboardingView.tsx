@@ -79,7 +79,7 @@ const OnboardingView: React.FC<OnboardingViewProps> = ({
   const [loginUsername, setLoginUsername] = useState('');
   const [loginPassword, setLoginPassword] = useState('');
 
-  const numOnboardingSteps = 7;
+  const numOnboardingSteps = 8;
 
   // Local Accounts Helper
   const getStoredUsers = (): UserAccount[] => {
